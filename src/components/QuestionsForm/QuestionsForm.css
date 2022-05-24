@@ -1,0 +1,20 @@
+.input-label {
+  display: flex;
+  margin: 0.5rem;
+  flex-direction: column;
+  width: 5rem;
+  align-items: center;
+}
+
+.input-name {
+  width: 100px;
+}
+
+.input-field {
+  font-size: 1rem;
+  padding: 0.25rem;
+}
+
+.add-button {
+  margin-left: 0.5rem;
+}

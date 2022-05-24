@@ -1,0 +1,12 @@
+.ask {
+  list-style: none;
+  margin: 1rem;
+}
+
+.question {
+  color: #b95604;
+}
+
+.answer {
+  color: #312b61;
+}
